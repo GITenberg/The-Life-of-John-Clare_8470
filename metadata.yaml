@@ -1,0 +1,28 @@
+_repo: The-Life-of-John-Clare_8470
+creator:
+  author:
+    agent_name: Martin, Frederick
+    alias: Martin, F. (Frederick)
+    birthdate: 1830
+    deathdate: 1883
+    gutenberg_agent_id: '2766'
+    url: http://www.gutenberg.org/2009/agents/2766
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychiatric hospital patients -- Great Britain -- Biography'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Northamptonshire (England) -- Intellectual life -- 19th century'
+- !lcsh 'Northamptonshire (England) -- Biography'
+- !lcsh 'Clare, John, 1793-1864'
+- !lcsh 'Agricultural laborers -- England -- Northamptonshire -- Biography'
+- !lcc 'PR'
+title: The Life of John Clare
+url: http://www.gutenberg.org/ebooks/8470
